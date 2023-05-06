@@ -26,3 +26,9 @@ Integrated Project 2 is a Project that combine all material from Project 5, unti
 Project 9 is about Linear Algebra, Vector, Matrices, and Fundamental in Linear Regression.
 
 Project 10 is about Gradient Descent and Gradient Boost.
+
+Project 11 is about Time Series.
+
+Project 12 is about Natural Language Processing.
+
+Project 13 is about Computer Vision.
