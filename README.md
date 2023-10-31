@@ -8,4 +8,4 @@ This is my Project Portfolio on Data Scientist Practicum Bootcamp.
 3. Gold Extraction, the objective is to build a machine learning to predict the concentration of gold after processing raw material.
 4. Oil Well, the objective is to build a machine learning to predict which Oil Well got more profit.
 5. Telecommunication, the objective is to build a machine learning to predict churn of customers.
-6. Used Car, the objective is to build a machine learning to predict used car prices, and to find what factor affecting the car prices.
+6. Used Car, the objective is to build a machine learning to predict used car prices.
