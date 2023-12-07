@@ -1,6 +1,4 @@
-# Data Scientist Practicum Project
-
-This is my Project Portfolio on Data Scientist Practicum Bootcamp.
+This is some of my work in Data Science
 
 ---
 1. Bank, the objective is to build a machine learning to predict churn of customers.
